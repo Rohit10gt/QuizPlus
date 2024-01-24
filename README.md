@@ -1,4 +1,4 @@
-# quizpluse
+# QuizPluse
 
 A new Flutter project.
 
