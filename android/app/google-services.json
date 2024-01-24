@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144497138074",
+    "project_id": "quizpluse-6ddbc",
+    "storage_bucket": "quizpluse-6ddbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144497138074:android:a835c8a0da89457dd94223",
+        "android_client_info": {
+          "package_name": "com.spook.quizpluse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNbqmQPPWBx-XSVAz6lQ_pFYvYHu3pxXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
