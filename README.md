@@ -4,6 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 ![WhatsApp Image 2024-01-27 at 12-portrait](https://github.com/Rohit10gt/QuizPlus/assets/122485591/7cbcd3be-0a14-49a4-ad7d-2a44794c2ee7)
+![WhatsApp Image 2024-01-27 at 12-landscape](https://github.com/Rohit10gt/QuizPlus/assets/122485591/a6a3adc4-037f-4ba8-b950-b5c743ddab65)
 
 This project is a starting point for a Flutter application.
 
